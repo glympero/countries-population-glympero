@@ -1,0 +1,10 @@
+.swiper-container {
+  width: 100%;
+}
+.swiper-pagination-bullet-active {
+  background: black;
+}
+
+.swiper-container-horizontal > .swiper-pagination-bullets {
+  bottom: -5px;
+}

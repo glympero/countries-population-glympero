@@ -1,0 +1,43 @@
+//Button
+.btn {
+  display: block;
+  color: $white;
+  border-color: transparent;
+  background-color: $darkGrey;
+  cursor: pointer;
+  transition: opacity 0.5s;;
+  opacity: 0.8;
+  margin: 1rem 0;
+  padding: 1rem 2rem;
+  font-size: $normal;
+  border-radius: 10px;
+  &:hover {;
+    opacity: 1;
+  }
+
+  &:disabled,
+  &.disabled {
+    pointer-events: none;
+    opacity: 0.5;
+  }
+}
+
+.btn-small {
+  padding: 0.8rem 1.5rem;
+  font-size: $tiny;
+}
+.btn-medium {
+  margin-right: 2rem;
+  padding: 0.4rem 2rem;
+}
+.btn-large {
+  padding: 1rem 15rem;
+  text-transform: uppercase;
+  margin: auto;
+}
+
+.btn-inline {
+  display: inline-block;
+  padding: 0.4rem 1rem;
+  margin-left: 1rem;
+}

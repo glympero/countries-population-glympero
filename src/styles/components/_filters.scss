@@ -1,0 +1,8 @@
+.filters-container {
+  margin-top: 2rem;
+  @include row_between_baseline();
+}
+
+.basic-single {
+  width: 20rem;
+}

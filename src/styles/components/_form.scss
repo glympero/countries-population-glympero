@@ -1,0 +1,37 @@
+.form {
+  width: 100%;
+  .smaller-input {
+    width: 89%;
+  }
+  input {
+    margin-top: 1rem;
+    padding: 1rem;
+  }
+
+  textarea {
+    margin-top: 1rem;
+    width: 100%;
+    padding: 1rem;
+    font-size: $normal;
+  }
+
+  .form-error {
+    font-size: $smaller;
+    color: $error;
+  }
+
+  .input-error {
+    margin-top: .5rem;
+    font-size: $smaller;
+    color: $error;
+    //min-height: 2.5rem;
+  }
+
+  .button-container {
+    display: flex;
+    align-items: baseline;
+    .btn {
+      margin-right: 2rem;
+    }
+  }
+}

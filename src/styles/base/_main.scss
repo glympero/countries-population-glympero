@@ -1,0 +1,25 @@
+.main-content {
+  margin-bottom: 10rem;
+}
+.text-center {
+  text-align: center;
+}
+.text-left {
+  text-align: left;
+}
+
+.no-margin {
+  margin: 0 auto;
+}
+
+.small-top-margin {
+  margin-top: 1rem;
+}
+
+.bottom-margin {
+  padding-bottom: 4rem;
+  min-height: 25rem;
+}
+.row-space-between-baseline {
+  @include row_between_baseline();
+}

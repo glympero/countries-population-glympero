@@ -1,0 +1,543 @@
+{
+  "countries": [
+    {
+      "name": "Cocos (Keeling) Islands",
+      "topLevelDomain": [
+        ".cc"
+      ],
+      "alpha2Code": "CC",
+      "alpha3Code": "CCK",
+      "callingCodes": [
+        "61"
+      ],
+      "capital": "West Island",
+      "altSpellings": [
+        "CC",
+        "Territory of the Cocos (Keeling) Islands",
+        "Keeling Islands"
+      ],
+      "region": "Oceania",
+      "subregion": "Australia and New Zealand",
+      "population": 550,
+      "latlng": [
+        -12.5,
+        96.83333333
+      ],
+      "demonym": "Cocos Islander",
+      "area": 14,
+      "gini": null,
+      "timezones": [
+        "UTC+06:30"
+      ],
+      "borders": [],
+      "nativeName": "Cocos (Keeling) Islands",
+      "numericCode": "166",
+      "currencies": [
+        {
+          "code": "AUD",
+          "name": "Australian dollar",
+          "symbol": "$"
+        }
+      ],
+      "languages": [
+        {
+          "iso639_1": "en",
+          "iso639_2": "eng",
+          "name": "English",
+          "nativeName": "English"
+        }
+      ],
+      "translations": {
+        "de": "Kokosinseln",
+        "es": "Islas Cocos o Islas Keeling",
+        "fr": "Îles Cocos",
+        "ja": "ココス（キーリング）諸島",
+        "it": "Isole Cocos e Keeling",
+        "br": "Ilhas Cocos",
+        "pt": "Ilhas dos Cocos",
+        "nl": "Cocoseilanden",
+        "hr": "Kokosovi Otoci",
+        "fa": "جزایر کوکوس"
+      },
+      "flag": "https://restcountries.eu/data/cck.svg",
+      "regionalBlocs": [],
+      "cioc": ""
+    },
+    {
+      "name": "Greece",
+      "topLevelDomain": [
+        ".gr"
+      ],
+      "alpha2Code": "GR",
+      "alpha3Code": "GRC",
+      "callingCodes": [
+        "30"
+      ],
+      "capital": "Athens",
+      "altSpellings": [
+        "GR",
+        "Elláda",
+        "Hellenic Republic",
+        "Ελληνική Δημοκρατία"
+      ],
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 10858018,
+      "latlng": [
+        39,
+        22
+      ],
+      "demonym": "Greek",
+      "area": 131990,
+      "gini": 34.3,
+      "timezones": [
+        "UTC+02:00"
+      ],
+      "borders": [
+        "ALB",
+        "BGR",
+        "TUR",
+        "MKD"
+      ],
+      "nativeName": "Ελλάδα",
+      "numericCode": "300",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€"
+        }
+      ],
+      "languages": [
+        {
+          "iso639_1": "el",
+          "iso639_2": "ell",
+          "name": "Greek (modern)",
+          "nativeName": "ελληνικά"
+        }
+      ],
+      "translations": {
+        "de": "Griechenland",
+        "es": "Grecia",
+        "fr": "Grèce",
+        "ja": "ギリシャ",
+        "it": "Grecia",
+        "br": "Grécia",
+        "pt": "Grécia",
+        "nl": "Griekenland",
+        "hr": "Grčka",
+        "fa": "یونان"
+      },
+      "flag": "https://restcountries.eu/data/grc.svg",
+      "regionalBlocs": [
+        {
+          "acronym": "EU",
+          "name": "European Union",
+          "otherAcronyms": [],
+          "otherNames": []
+        }
+      ],
+      "cioc": "GRE"
+    },
+    {
+      "name": "Greenland",
+      "topLevelDomain": [
+        ".gl"
+      ],
+      "alpha2Code": "GL",
+      "alpha3Code": "GRL",
+      "callingCodes": [
+        "299"
+      ],
+      "capital": "Nuuk",
+      "altSpellings": [
+        "GL",
+        "Grønland"
+      ],
+      "region": "Americas",
+      "subregion": "Northern America",
+      "population": 55847,
+      "latlng": [
+        72,
+        -40
+      ],
+      "demonym": "Greenlandic",
+      "area": 2166086,
+      "gini": null,
+      "timezones": [
+        "UTC-04:00",
+        "UTC-03:00",
+        "UTC-01:00",
+        "UTC+00:00"
+      ],
+      "borders": [],
+      "nativeName": "Kalaallit Nunaat",
+      "numericCode": "304",
+      "currencies": [
+        {
+          "code": "DKK",
+          "name": "Danish krone",
+          "symbol": "kr"
+        }
+      ],
+      "languages": [
+        {
+          "iso639_1": "kl",
+          "iso639_2": "kal",
+          "name": "Kalaallisut",
+          "nativeName": "kalaallisut"
+        }
+      ],
+      "translations": {
+        "de": "Grönland",
+        "es": "Groenlandia",
+        "fr": "Groenland",
+        "ja": "グリーンランド",
+        "it": "Groenlandia",
+        "br": "Groelândia",
+        "pt": "Gronelândia",
+        "nl": "Groenland",
+        "hr": "Grenland",
+        "fa": "گرینلند"
+      },
+      "flag": "https://restcountries.eu/data/grl.svg",
+      "regionalBlocs": [],
+      "cioc": ""
+    },
+    {
+      "name": "Holy See",
+      "topLevelDomain": [
+        ".va"
+      ],
+      "alpha2Code": "VA",
+      "alpha3Code": "VAT",
+      "callingCodes": [
+        "379"
+      ],
+      "capital": "Rome",
+      "altSpellings": [
+        "Sancta Sedes",
+        "Vatican",
+        "The Vatican"
+      ],
+      "region": "Europe",
+      "subregion": "Southern Europe",
+      "population": 451,
+      "latlng": [
+        41.9,
+        12.45
+      ],
+      "demonym": "",
+      "area": 0.44,
+      "gini": null,
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "borders": [
+        "ITA"
+      ],
+      "nativeName": "Sancta Sedes",
+      "numericCode": "336",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€"
+        }
+      ],
+      "languages": [
+        {
+          "iso639_1": "la",
+          "iso639_2": "lat",
+          "name": "Latin",
+          "nativeName": "latine"
+        },
+        {
+          "iso639_1": "it",
+          "iso639_2": "ita",
+          "name": "Italian",
+          "nativeName": "Italiano"
+        },
+        {
+          "iso639_1": "fr",
+          "iso639_2": "fra",
+          "name": "French",
+          "nativeName": "français"
+        },
+        {
+          "iso639_1": "de",
+          "iso639_2": "deu",
+          "name": "German",
+          "nativeName": "Deutsch"
+        }
+      ],
+      "translations": {
+        "de": "Heiliger Stuhl",
+        "es": "Santa Sede",
+        "fr": "voir Saint",
+        "ja": "聖座",
+        "it": "Santa Sede",
+        "br": "Vaticano",
+        "pt": "Vaticano",
+        "nl": "Heilige Stoel",
+        "hr": "Sveta Stolica",
+        "fa": "سریر مقدس"
+      },
+      "flag": "https://restcountries.eu/data/vat.svg",
+      "regionalBlocs": [],
+      "cioc": ""
+    },
+    {
+      "name": "Equatorial Guinea",
+      "topLevelDomain": [
+        ".gq"
+      ],
+      "alpha2Code": "GQ",
+      "alpha3Code": "GNQ",
+      "callingCodes": [
+        "240"
+      ],
+      "capital": "Malabo",
+      "altSpellings": [
+        "GQ",
+        "Republic of Equatorial Guinea",
+        "República de Guinea Ecuatorial",
+        "République de Guinée équatoriale",
+        "República da Guiné Equatorial"
+      ],
+      "region": "Africa",
+      "subregion": "Middle Africa",
+      "population": 1222442,
+      "latlng": [
+        2,
+        10
+      ],
+      "demonym": "Equatorial Guinean",
+      "area": 28051,
+      "gini": null,
+      "timezones": [
+        "UTC+01:00"
+      ],
+      "borders": [
+        "CMR",
+        "GAB"
+      ],
+      "nativeName": "Guinea Ecuatorial",
+      "numericCode": "226",
+      "currencies": [
+        {
+          "code": "XAF",
+          "name": "Central African CFA franc",
+          "symbol": "Fr"
+        }
+      ],
+      "languages": [
+        {
+          "iso639_1": "es",
+          "iso639_2": "spa",
+          "name": "Spanish",
+          "nativeName": "Español"
+        },
+        {
+          "iso639_1": "fr",
+          "iso639_2": "fra",
+          "name": "French",
+          "nativeName": "français"
+        }
+      ],
+      "translations": {
+        "de": "Äquatorial-Guinea",
+        "es": "Guinea Ecuatorial",
+        "fr": "Guinée-Équatoriale",
+        "ja": "赤道ギニア",
+        "it": "Guinea Equatoriale",
+        "br": "Guiné Equatorial",
+        "pt": "Guiné Equatorial",
+        "nl": "Equatoriaal-Guinea",
+        "hr": "Ekvatorijalna Gvineja",
+        "fa": "گینه استوایی"
+      },
+      "flag": "https://restcountries.eu/data/gnq.svg",
+      "regionalBlocs": [
+        {
+          "acronym": "AU",
+          "name": "African Union",
+          "otherAcronyms": [],
+          "otherNames": [
+            "الاتحاد الأفريقي",
+            "Union africaine",
+            "União Africana",
+            "Unión Africana",
+            "Umoja wa Afrika"
+          ]
+        }
+      ],
+      "cioc": "GEQ"
+    },
+    {
+      "name": "Estonia",
+      "topLevelDomain": [
+        ".ee"
+      ],
+      "alpha2Code": "EE",
+      "alpha3Code": "EST",
+      "callingCodes": [
+        "372"
+      ],
+      "capital": "Tallinn",
+      "altSpellings": [
+        "EE",
+        "Eesti",
+        "Republic of Estonia",
+        "Eesti Vabariik"
+      ],
+      "region": "Europe",
+      "subregion": "Northern Europe",
+      "population": 1315944,
+      "latlng": [
+        59,
+        26
+      ],
+      "demonym": "Estonian",
+      "area": 45227,
+      "gini": 36,
+      "timezones": [
+        "UTC+02:00"
+      ],
+      "borders": [
+        "LVA",
+        "RUS"
+      ],
+      "nativeName": "Eesti",
+      "numericCode": "233",
+      "currencies": [
+        {
+          "code": "EUR",
+          "name": "Euro",
+          "symbol": "€"
+        }
+      ],
+      "languages": [
+        {
+          "iso639_1": "et",
+          "iso639_2": "est",
+          "name": "Estonian",
+          "nativeName": "eesti"
+        }
+      ],
+      "translations": {
+        "de": "Estland",
+        "es": "Estonia",
+        "fr": "Estonie",
+        "ja": "エストニア",
+        "it": "Estonia",
+        "br": "Estônia",
+        "pt": "Estónia",
+        "nl": "Estland",
+        "hr": "Estonija",
+        "fa": "استونی"
+      },
+      "flag": "https://restcountries.eu/data/est.svg",
+      "regionalBlocs": [
+        {
+          "acronym": "EU",
+          "name": "European Union",
+          "otherAcronyms": [],
+          "otherNames": []
+        }
+      ],
+      "cioc": "EST"
+    },
+    {
+      "name": "Guinea",
+      "topLevelDomain": [
+        ".gn"
+      ],
+      "alpha2Code": "GN",
+      "alpha3Code": "GIN",
+      "callingCodes": [
+        "224"
+      ],
+      "capital": "Conakry",
+      "altSpellings": [
+        "GN",
+        "Republic of Guinea",
+        "République de Guinée"
+      ],
+      "region": "Africa",
+      "subregion": "Western Africa",
+      "population": 12947000,
+      "latlng": [
+        11,
+        -10
+      ],
+      "demonym": "Guinean",
+      "area": 245857,
+      "gini": 39.4,
+      "timezones": [
+        "UTC"
+      ],
+      "borders": [
+        "CIV",
+        "GNB",
+        "LBR",
+        "MLI",
+        "SEN",
+        "SLE"
+      ],
+      "nativeName": "Guinée",
+      "numericCode": "324",
+      "currencies": [
+        {
+          "code": "GNF",
+          "name": "Guinean franc",
+          "symbol": "Fr"
+        }
+      ],
+      "languages": [
+        {
+          "iso639_1": "fr",
+          "iso639_2": "fra",
+          "name": "French",
+          "nativeName": "français"
+        },
+        {
+          "iso639_1": "ff",
+          "iso639_2": "ful",
+          "name": "Fula",
+          "nativeName": "Fulfulde"
+        }
+      ],
+      "translations": {
+        "de": "Guinea",
+        "es": "Guinea",
+        "fr": "Guinée",
+        "ja": "ギニア",
+        "it": "Guinea",
+        "br": "Guiné",
+        "pt": "Guiné",
+        "nl": "Guinee",
+        "hr": "Gvineja",
+        "fa": "گینه"
+      },
+      "flag": "https://restcountries.eu/data/gin.svg",
+      "regionalBlocs": [
+        {
+          "acronym": "AU",
+          "name": "African Union",
+          "otherAcronyms": [],
+          "otherNames": [
+            "الاتحاد الأفريقي",
+            "Union africaine",
+            "União Africana",
+            "Unión Africana",
+            "Umoja wa Afrika"
+          ]
+        }
+      ],
+      "cioc": "GUI"
+    }
+  ]
+}
+
+

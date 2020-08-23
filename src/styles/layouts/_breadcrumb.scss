@@ -1,0 +1,14 @@
+.breadcrumbs {
+  margin: 5rem auto;
+  ul {
+    list-style: none;
+    text-transform: capitalize;
+    li {
+      display: inline-block;
+      padding-right: .5rem;
+       a {
+         color: $lightGrey;
+       }
+    }
+  }
+}

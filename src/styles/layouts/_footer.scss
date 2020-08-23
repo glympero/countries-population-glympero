@@ -1,0 +1,24 @@
+footer {
+  position: fixed;
+  //z-index: 10;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: $backgroundGrey;
+  color: white;
+  text-align: center;
+  .footer-menu {
+    margin: 2.5rem;
+    @include row_between_baseline();
+    a {
+      padding: 0.2rem 2rem;
+      border-bottom: 1px solid $darkGrey;
+      color: $darkGrey;
+      opacity: 0.8;
+      transition: opacity .5s;
+      &:hover {
+        opacity: 1;
+      }
+    }
+  }
+}
