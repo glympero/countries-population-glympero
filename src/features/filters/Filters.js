@@ -13,8 +13,6 @@ import {
 } from "./filtersSlice";
 import { fetchCountries } from "../countrystore/countrystoreSlice";
 
-import "react-dropdown/style.css";
-
 export function Filters() {
   const textFilter = useSelector(selectText);
   const languageFilter = useSelector(selectLanguage);
