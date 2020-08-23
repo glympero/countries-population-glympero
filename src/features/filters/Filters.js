@@ -64,7 +64,6 @@ export function Filters() {
           <button
             disabled={languageFilter === ""}
             onClick={() => {
-              dispatch(setCurrency(""));
               dispatch(fetchCountries(false, "lang", languageFilter));
             }}
             className="btn btn-medium"
@@ -78,19 +77,16 @@ export function Filters() {
           type="text"
           placeholder="Search by Currency..."
           value={currencyFilter}
-          onChange={(event) => {
-            dispatch(setLanguage(""));
-            dispatch(setCurrency(event.target.value));
-          }}
+          onChange={(event) => dispatch(setCurrency(event.target.value))}
         />
       </div>
       <div className="col-sm-12 col-md-2">
         <div className="filters-container">
           <button
             disabled={currencyFilter === ""}
-            onClick={() =>
-              dispatch(fetchCountries(false, "currency", currencyFilter))
-            }
+            onClick={() => {
+              dispatch(fetchCountries(false, "currency", currencyFilter));
+            }}
             className="btn btn-medium"
           >
             Search
@@ -99,6 +95,9 @@ export function Filters() {
       </div>
       <div className="col-sm-12 filters-container">
         <button
+          disabled={
+            textFilter === "" && languageFilter === "" && currencyFilter === ""
+          }
           className="btn btn-medium"
           onClick={(event) => {
             dispatch(setLanguage(""));

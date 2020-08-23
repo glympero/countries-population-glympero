@@ -11,7 +11,10 @@ const Country = () => {
 
   const getCurrencies = (cur) => {
     const currencies = cur.map((item) => {
-      return `${item.symbol} ${item.code}. `;
+      if (item.symbol && item.code) {
+        return `${item.symbol} ${item.code}. `;
+      }
+      return "";
     });
     return currencies;
   };
